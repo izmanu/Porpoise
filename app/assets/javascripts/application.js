@@ -10,4 +10,4 @@
 // WARNING: THE FIRST BLANK LINE MARKS THE END OF WHAT'S TO BE PROCESSED, ANY BLANK LINE SHOULD
 // GO AFTER THE REQUIRES BELOW.
 //
-//= require porpoise
+// Removing including all javascripts, leave it up to apps that implement to include or override javascript files
